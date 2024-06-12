@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: "Chukwu Uchanta | Content Creator",
     description:
       "I am a passionate educator, content creator, and programme coordinator dedicated to making a positive impact in the lives of others.",
-    // url: "https://matthewchukwu.com.ng",
+    url: "https://uchanta.com.ng",
     // siteName: "Portfolio website",
     images: [
       {
